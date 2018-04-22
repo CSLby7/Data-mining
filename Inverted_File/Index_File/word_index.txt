@@ -1,0 +1,15 @@
+I	0	1	2	3	
+love	0	
+Sichuan	0	
+University	0	
+like	1	2	
+spicy	1	
+food	1	
+don't	2	
+going	2	
+to	2	
+school	2	
+enjoy	3	
+sleeping	3	
+in	3	
+class	3	

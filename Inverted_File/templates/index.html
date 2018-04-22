@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <h1>Mini Google</h1>
+    <form method="post">
+        <input type="text" name="query" value="{{query}}" />
+        <br/>
+        <input type="submit" value="Submit"/>
+    </form>
+    <div>
+    <p>{{result|safe}}</p>
+    <p>{{content|safe}}</p>
+    </div>
+</div>
+</body>
+</html>
