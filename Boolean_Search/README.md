@@ -12,7 +12,7 @@ Environment
 
 Principle
 ------
-We use some keywords to split inputting string by applying the Boolean logic principle. 
+We use some keywords to split the inputting string by applying the Boolean logic principle. 
 * space == ||<br>
 * and == &&
 
