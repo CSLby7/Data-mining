@@ -1,0 +1,6 @@
+0	E:\PycharmProjects\Boolean_Search\Files\math1.txt
+1	E:\PycharmProjects\Boolean_Search\Files\math2.txt
+2	E:\PycharmProjects\Boolean_Search\Files\math3.txt
+3	E:\PycharmProjects\Boolean_Search\Files\sports1.txt
+4	E:\PycharmProjects\Boolean_Search\Files\sports2.txt
+5	E:\PycharmProjects\Boolean_Search\Files\sports3.txt

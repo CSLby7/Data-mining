@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <h1>Mini Google</h1>
+    <font color="#dc143c" size="5">Author BaiYang Li</font>
+    <form method="post">
+        <input type="text" name="query" value="{{query}}" size="35" />
+        <br/>
+        <input type="submit" value="Submit"/>
+    </form>
+    <div style="width: 550px;">
+    <p>{{result|safe}}</p>
+    <p align="left">{{content|safe}}</p>
+    </div>
+</div>
+</body>
+</html>
