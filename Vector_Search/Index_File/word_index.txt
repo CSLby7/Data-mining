@@ -1,0 +1,243 @@
+Mathematics	0	1	
+is	0	2	3	3	4	4	5	
+the	0	1	1	1	1	1	1	1	2	2	4	4	4	5	5	
+study	0	1	
+of	0	1	1	1	1	2	3	3	4	4	5	
+quantity	0	
+structure	0	
+space	0	
+and	0	0	0	1	1	1	1	2	2	3	3	3	3	3	4	4	4	4	5	5	
+change	0	
+Mathematicians	0	
+seek	0	
+out	0	
+patterns,[2][3]	0	
+formulate	0	
+new	0	1	
+conjectures	0	
+establish	0	
+truth	0	
+by	0	3	3	
+rigorous	0	
+deduction	0	
+from	0	1	
+appropriately	0	
+chosen	0	
+axioms	0	
+definitions.[4]	0	
+Through	1	
+use	1	
+abstraction	1	
+logical	1	
+reasoning	1	
+mathematics	1	1	1	2	2	
+evolved	1	
+counting	1	
+calculation	1	
+measurement	1	
+systematic	1	
+shapes	1	
+motions	1	
+physical	1	3	5	
+objects	1	2	
+Practical	1	
+has	1	
+been	1	
+a	1	1	3	3	4	4	5	
+human	1	2	
+activity	1	3	
+for	1	1	3	5	5	5	
+as	1	1	2	2	2	2	3	3	3	3	3	4	4	4	4	
+far	1	2	2	
+back	1	
+written	1	
+records	1	
+exist	1	2	
+Rigorous	1	
+arguments	1	
+first	1	4	
+appeared	1	
+in	1	1	1	1	1	1	1	1	1	3	4	4	5	5	
+Greek	1	
+most	1	5	5	
+notably	1	
+Euclid's	1	
+Elements	1	
+continued	1	
+to	1	1	1	2	2	4	4	5	
+develop	1	
+example	1	3	
+China	1	
+300	1	
+BC	1	
+India	1	
+AD	1	1	
+100	1	
+Muslim	1	
+world	1	
+800	1	
+until	1	
+Renaissance	1	
+when	1	
+mathematical	1	1	2	
+innovations	1	
+interacting	1	
+with	1	4	
+scientific	1	
+discoveries	1	
+led	1	
+rapid	1	
+increase	1	
+rate	1	
+discovery	1	
+that	1	2	2	5	
+continues	1	
+present	1	
+day.[5]	1	
+There	2	
+debate	2	
+over	2	
+whether	2	
+such	2	3	4	4	4	
+numbers	2	
+points	2	
+naturally	2	
+or	2	3	3	4	5	
+are	2	2	2	3	3	3	4	5	5	5	
+creations	2	
+The	2	
+mathematician	2	
+Benjamin	2	
+Peirce	2	
+called	2	
+"the	2	
+science	2	
+draws	2	
+necessary	2	
+conclusions".[6]	2	
+Albert	2	
+Einstein	2	
+on	2	
+other	2	4	
+hand	2	
+stated	2	
+"as	2	
+laws	2	
+refer	2	2	
+reality	2	
+they	2	2	2	
+not	2	2	4	4	
+certain;	2	
+certain	2	
+do	2	
+reality."[7]	2	
+A	3	
+sport	3	4	5	5	
+an	3	
+organized	3	
+competitive	3	
+entertaining	3	
+skillful	3	
+requiring	3	3	
+commitment	3	
+strategy	3	
+fair	3	
+play	3	
+which	3	
+winner	3	
+can	3	
+be	3	4	
+defined	3	
+objective	3	
+means	3	
+It	3	
+governed	3	
+set	3	
+rules	3	
+customs	3	
+Activities	3	
+card	3	
+games	3	3	
+board	3	
+classified	3	3	
+"mind	3	
+sports"	3	
+some	3	4	
+recognized	3	
+Olympic	3	
+sports[citation	3	
+needed]	3	
+primarily	3	
+mental	3	3	
+skills	3	
+involvement	3	
+Non-competitive	3	
+activities	3	4	
+jogging	3	
+playing	3	
+catch	3	
+usually	3	
+forms	3	
+recreation.	3	
+Physical	4	
+events	4	
+scoring	4	
+goals	4	
+crossing	4	
+line	4	
+often	4	5	
+define	4	
+result	4	
+However	4	5	
+degree	4	
+skill	4	4	
+performance	4	
+sports	4	5	
+diving	4	
+dressage	4	
+figure	4	
+skating	4	
+judged	4	4	
+according	4	
+well-defined	4	
+criteria	4	4	
+This	4	
+contrast	4	
+beauty	4	
+pageants	4	
+body	4	
+building	4	
+where	4	
+does	4	
+have	4	
+shown	4	
+well	4	
+defined.	4	
+Records	5	
+kept	5	
+updated	5	
+at	5	
+highest	5	
+levels	5	
+while	5	
+failures	5	
+accomplishments	5	
+widely	5	
+announced	5	
+news	5	
+Sports	5	
+played	5	
+just	5	
+fun	5	
+simple	5	
+fact	5	
+people	5	
+need	5	
+exercise	5	
+stay	5	
+good	5	
+condition	5	
+professional	5	
+major	5	
+source	5	
+entertainment.	5	

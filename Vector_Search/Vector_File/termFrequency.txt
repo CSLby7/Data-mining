@@ -1,0 +1,243 @@
+Mathematics	0-1	1-1	
+is	0-1	2-1	3-2	4-2	5-1	
+the	0-1	1-7	2-2	4-3	5-2	
+study	0-1	1-1	
+of	0-1	1-4	2-1	3-2	4-2	5-1	
+quantity	0-1	
+structure	0-1	
+space	0-1	
+and	0-3	1-4	2-2	3-5	4-4	5-2	
+change	0-1	
+Mathematicians	0-1	
+seek	0-1	
+out	0-1	
+patterns,[2][3]	0-1	
+formulate	0-1	
+new	0-1	1-1	
+conjectures	0-1	
+establish	0-1	
+truth	0-1	
+by	0-1	3-2	
+rigorous	0-1	
+deduction	0-1	
+from	0-1	1-1	
+appropriately	0-1	
+chosen	0-1	
+axioms	0-1	
+definitions.[4]	0-1	
+Through	1-1	
+use	1-1	
+abstraction	1-1	
+logical	1-1	
+reasoning	1-1	
+mathematics	1-3	2-2	
+evolved	1-1	
+counting	1-1	
+calculation	1-1	
+measurement	1-1	
+systematic	1-1	
+shapes	1-1	
+motions	1-1	
+physical	1-1	3-1	5-1	
+objects	1-1	2-1	
+Practical	1-1	
+has	1-1	
+been	1-1	
+a	1-2	3-2	4-2	5-1	
+human	1-1	2-1	
+activity	1-1	3-1	
+for	1-2	3-1	5-3	
+as	1-2	2-4	3-5	4-4	
+far	1-1	2-2	
+back	1-1	
+written	1-1	
+records	1-1	
+exist	1-1	2-1	
+Rigorous	1-1	
+arguments	1-1	
+first	1-1	4-1	
+appeared	1-1	
+in	1-9	3-1	4-2	5-2	
+Greek	1-1	
+most	1-1	5-2	
+notably	1-1	
+Euclid's	1-1	
+Elements	1-1	
+continued	1-1	
+to	1-3	2-2	4-2	5-1	
+develop	1-1	
+example	1-1	3-1	
+China	1-1	
+300	1-1	
+BC	1-1	
+India	1-1	
+AD	1-2	
+100	1-1	
+Muslim	1-1	
+world	1-1	
+800	1-1	
+until	1-1	
+Renaissance	1-1	
+when	1-1	
+mathematical	1-2	2-1	
+innovations	1-1	
+interacting	1-1	
+with	1-1	4-1	
+scientific	1-1	
+discoveries	1-1	
+led	1-1	
+rapid	1-1	
+increase	1-1	
+rate	1-1	
+discovery	1-1	
+that	1-1	2-2	5-1	
+continues	1-1	
+present	1-1	
+day.[5]	1-1	
+There	2-1	
+debate	2-1	
+over	2-1	
+whether	2-1	
+such	2-1	3-1	4-3	
+numbers	2-1	
+points	2-1	
+naturally	2-1	
+or	2-1	3-2	4-1	5-1	
+are	2-3	3-3	4-1	5-3	
+creations	2-1	
+The	2-1	
+mathematician	2-1	
+Benjamin	2-1	
+Peirce	2-1	
+called	2-1	
+"the	2-1	
+science	2-1	
+draws	2-1	
+necessary	2-1	
+conclusions".[6]	2-1	
+Albert	2-1	
+Einstein	2-1	
+on	2-1	
+other	2-1	4-1	
+hand	2-1	
+stated	2-1	
+"as	2-1	
+laws	2-1	
+refer	2-2	
+reality	2-1	
+they	2-3	
+not	2-2	4-2	
+certain;	2-1	
+certain	2-1	
+do	2-1	
+reality."[7]	2-1	
+A	3-1	
+sport	3-1	4-1	5-2	
+an	3-1	
+organized	3-1	
+competitive	3-1	
+entertaining	3-1	
+skillful	3-1	
+requiring	3-2	
+commitment	3-1	
+strategy	3-1	
+fair	3-1	
+play	3-1	
+which	3-1	
+winner	3-1	
+can	3-1	
+be	3-1	4-1	
+defined	3-1	
+objective	3-1	
+means	3-1	
+It	3-1	
+governed	3-1	
+set	3-1	
+rules	3-1	
+customs	3-1	
+Activities	3-1	
+card	3-1	
+games	3-2	
+board	3-1	
+classified	3-2	
+"mind	3-1	
+sports"	3-1	
+some	3-1	4-1	
+recognized	3-1	
+Olympic	3-1	
+sports[citation	3-1	
+needed]	3-1	
+primarily	3-1	
+mental	3-2	
+skills	3-1	
+involvement	3-1	
+Non-competitive	3-1	
+activities	3-1	4-1	
+jogging	3-1	
+playing	3-1	
+catch	3-1	
+usually	3-1	
+forms	3-1	
+recreation.	3-1	
+Physical	4-1	
+events	4-1	
+scoring	4-1	
+goals	4-1	
+crossing	4-1	
+line	4-1	
+often	4-1	5-1	
+define	4-1	
+result	4-1	
+However	4-1	5-1	
+degree	4-1	
+skill	4-2	
+performance	4-1	
+sports	4-1	5-1	
+diving	4-1	
+dressage	4-1	
+figure	4-1	
+skating	4-1	
+judged	4-2	
+according	4-1	
+well-defined	4-1	
+criteria	4-2	
+This	4-1	
+contrast	4-1	
+beauty	4-1	
+pageants	4-1	
+body	4-1	
+building	4-1	
+where	4-1	
+does	4-1	
+have	4-1	
+shown	4-1	
+well	4-1	
+defined.	4-1	
+Records	5-1	
+kept	5-1	
+updated	5-1	
+at	5-1	
+highest	5-1	
+levels	5-1	
+while	5-1	
+failures	5-1	
+accomplishments	5-1	
+widely	5-1	
+announced	5-1	
+news	5-1	
+Sports	5-1	
+played	5-1	
+just	5-1	
+fun	5-1	
+simple	5-1	
+fact	5-1	
+people	5-1	
+need	5-1	
+exercise	5-1	
+stay	5-1	
+good	5-1	
+condition	5-1	
+professional	5-1	
+major	5-1	
+source	5-1	
+entertainment.	5-1	
