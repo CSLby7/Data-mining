@@ -29,5 +29,6 @@ Run
 Problem
 ------
 Please contact me with any questions you meet.<br>
-Email: lby19970617@163.com<br>
-        lby.riddle.7@gmail.com
+Email: 
+* lby19970617@163.com
+* lby.riddle.7@gmail.com
